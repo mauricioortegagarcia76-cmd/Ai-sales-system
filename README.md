@@ -1,2 +1,5 @@
 # Ai-sales-system
-Sistema de gestión de ventas con CRM y asistente de IA
+Sistema de gestión de ventas con CRM y asistente de clientes
+
+
+ 
